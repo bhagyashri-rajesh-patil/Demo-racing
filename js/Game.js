@@ -42,6 +42,7 @@ class Game {
 
           }
         
+          
           play(){
             form.hide();
         
