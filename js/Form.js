@@ -8,6 +8,7 @@ class Form {
     this.reset = createButton('Reset');
 
   }
+  
   hide(){
     this.greeting.hide();
     this.button.hide();
